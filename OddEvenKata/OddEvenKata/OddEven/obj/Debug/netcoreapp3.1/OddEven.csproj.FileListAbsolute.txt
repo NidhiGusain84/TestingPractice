@@ -1,0 +1,13 @@
+C:\OddEvenKata\OddEvenKata\OddEven\bin\Debug\netcoreapp3.1\OddEven.exe
+C:\OddEvenKata\OddEvenKata\OddEven\bin\Debug\netcoreapp3.1\OddEven.deps.json
+C:\OddEvenKata\OddEvenKata\OddEven\bin\Debug\netcoreapp3.1\OddEven.runtimeconfig.json
+C:\OddEvenKata\OddEvenKata\OddEven\bin\Debug\netcoreapp3.1\OddEven.runtimeconfig.dev.json
+C:\OddEvenKata\OddEvenKata\OddEven\bin\Debug\netcoreapp3.1\OddEven.dll
+C:\OddEvenKata\OddEvenKata\OddEven\bin\Debug\netcoreapp3.1\OddEven.pdb
+C:\OddEvenKata\OddEvenKata\OddEven\obj\Debug\netcoreapp3.1\OddEven.csprojAssemblyReference.cache
+C:\OddEvenKata\OddEvenKata\OddEven\obj\Debug\netcoreapp3.1\OddEven.AssemblyInfoInputs.cache
+C:\OddEvenKata\OddEvenKata\OddEven\obj\Debug\netcoreapp3.1\OddEven.AssemblyInfo.cs
+C:\OddEvenKata\OddEvenKata\OddEven\obj\Debug\netcoreapp3.1\OddEven.csproj.CoreCompileInputs.cache
+C:\OddEvenKata\OddEvenKata\OddEven\obj\Debug\netcoreapp3.1\OddEven.dll
+C:\OddEvenKata\OddEvenKata\OddEven\obj\Debug\netcoreapp3.1\OddEven.pdb
+C:\OddEvenKata\OddEvenKata\OddEven\obj\Debug\netcoreapp3.1\OddEven.genruntimeconfig.cache
