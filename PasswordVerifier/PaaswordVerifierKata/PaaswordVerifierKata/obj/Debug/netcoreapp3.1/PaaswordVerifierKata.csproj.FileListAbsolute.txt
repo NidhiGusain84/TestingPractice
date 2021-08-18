@@ -1,0 +1,13 @@
+C:\PasswordVerifier\PaaswordVerifierKata\PaaswordVerifierKata\bin\Debug\netcoreapp3.1\PaaswordVerifierKata.exe
+C:\PasswordVerifier\PaaswordVerifierKata\PaaswordVerifierKata\bin\Debug\netcoreapp3.1\PaaswordVerifierKata.deps.json
+C:\PasswordVerifier\PaaswordVerifierKata\PaaswordVerifierKata\bin\Debug\netcoreapp3.1\PaaswordVerifierKata.runtimeconfig.json
+C:\PasswordVerifier\PaaswordVerifierKata\PaaswordVerifierKata\bin\Debug\netcoreapp3.1\PaaswordVerifierKata.runtimeconfig.dev.json
+C:\PasswordVerifier\PaaswordVerifierKata\PaaswordVerifierKata\bin\Debug\netcoreapp3.1\PaaswordVerifierKata.dll
+C:\PasswordVerifier\PaaswordVerifierKata\PaaswordVerifierKata\bin\Debug\netcoreapp3.1\PaaswordVerifierKata.pdb
+C:\PasswordVerifier\PaaswordVerifierKata\PaaswordVerifierKata\obj\Debug\netcoreapp3.1\PaaswordVerifierKata.csprojAssemblyReference.cache
+C:\PasswordVerifier\PaaswordVerifierKata\PaaswordVerifierKata\obj\Debug\netcoreapp3.1\PaaswordVerifierKata.AssemblyInfoInputs.cache
+C:\PasswordVerifier\PaaswordVerifierKata\PaaswordVerifierKata\obj\Debug\netcoreapp3.1\PaaswordVerifierKata.AssemblyInfo.cs
+C:\PasswordVerifier\PaaswordVerifierKata\PaaswordVerifierKata\obj\Debug\netcoreapp3.1\PaaswordVerifierKata.csproj.CoreCompileInputs.cache
+C:\PasswordVerifier\PaaswordVerifierKata\PaaswordVerifierKata\obj\Debug\netcoreapp3.1\PaaswordVerifierKata.dll
+C:\PasswordVerifier\PaaswordVerifierKata\PaaswordVerifierKata\obj\Debug\netcoreapp3.1\PaaswordVerifierKata.pdb
+C:\PasswordVerifier\PaaswordVerifierKata\PaaswordVerifierKata\obj\Debug\netcoreapp3.1\PaaswordVerifierKata.genruntimeconfig.cache
